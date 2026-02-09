@@ -1,0 +1,38 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* ===== Unique IDs ===== */
+
+#header {
+    background-color: #0033cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* ===== Reusable Classes ===== */
+
+.card {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.highlight {
+    color: #0033cc;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* ===== Flexbox Layout ===== */
